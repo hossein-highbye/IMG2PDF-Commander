@@ -1,4 +1,4 @@
-# 🚀 WEBP2PDF Commander  
+# 🚀 IMG2PDF Commander  
 *A memory-efficient batch image converter for Android (Termux) and desktop*  
 
 📦 **Features**  
